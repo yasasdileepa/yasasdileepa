@@ -1,1 +1,2 @@
 ![My card name](https://cardivo.vercel.app/api?name=Yasas%20Dileepa&description=Hi%20i%27m%20yasasdileepa%20king%20Maraya%27Whatsapp%20bot%20owner%20you%20can%27install%20this%20bot%20and%20funny%20%F0%9F%91%8B&image=https://telegra.ph/Hi-im-yasas-dileepa-king-Maraya-Whatsapp-Bot-11-18?v=4&backgroundColor)
+<p align="center"> <a href="https://github.com/yasasdileepa/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=avipatilpro&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="yasasdileepa" /></a> </p><br>
